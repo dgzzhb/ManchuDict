@@ -27,11 +27,10 @@ public class Searcher {
 		while ((line = br.readLine()) != null) {
 			matcher.reset(line);
 			if (matcher.find()) return line;
-			else return "Not Found!";
 		}
 		br.close();
 		fr.close();
-		return line;
+		return "对不起没找到任何结果";
 	}
 	
 }

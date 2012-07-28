@@ -2,7 +2,7 @@ ManchuDict
 ==========
 
 This is a simple dictionary in Manchu, Chinese and English. All the Manchu words are 
-rewritten into Latin by Möllendorff method. Many thanks to Ajiu for his dictionary source.
+rewritten into Latin characters by Möllendorff method. Many thanks to Ajiu for his dictionary source.
 
 Manchu, a critically endangered language according to www.endangeredlanguages.com powered 
 by Google. This language used to be the official language of China a hundred years ago but
