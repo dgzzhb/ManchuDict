@@ -14,10 +14,6 @@ public class Searcher {
 		word = aWord;
 	}
 
-	/*public void setWord(String aWord) {
-		word = aWord;
-	}*/
-
 	public String search() throws IOException {
 		File origin = new File("origin.txt");
 		FileReader fr = null;
