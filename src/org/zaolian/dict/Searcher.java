@@ -11,12 +11,12 @@ public class Searcher {
 	private String line;
 
 	public Searcher(String aWord) {
-		setWord(aWord);
-	}
-
-	public void setWord(String aWord) {
 		word = aWord;
 	}
+
+	/*public void setWord(String aWord) {
+		word = aWord;
+	}*/
 
 	public String search() throws IOException {
 		File origin = new File("origin.txt");

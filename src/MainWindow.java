@@ -15,7 +15,6 @@ public class MainWindow {
 	
 	private static final int FRAME_WIDTH = 300;
 	private static final int FRAME_HEIGHT = 200;
-	private Searcher searcher;
 
 	public MainWindow() {
 		setupGUI();
@@ -35,12 +34,12 @@ public class MainWindow {
 		
 		button.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				searcher.setWord(inText.getText());	
+				Searcher searcher = new Searcher(inText.getText());	
 				try {
 					outText.setText(searcher.search());
 				} catch (IOException e1) {
 					// TODO Auto-generated catch block
-					e1.printStackTrace();
+					//e1.printStackTrace();
 				}
 			}
 		});		
