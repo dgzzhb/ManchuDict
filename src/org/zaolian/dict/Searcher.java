@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Searcher {
 	
@@ -15,15 +17,16 @@ public class Searcher {
 	}
 
 	public String search() throws IOException {
+		Pattern pattern = Pattern.compile(word);
+		Matcher matcher = pattern.matcher("");
+		
 		File origin = new File("origin.txt");
 		FileReader fr = null;
 		fr = new FileReader(origin);
 		BufferedReader br = new BufferedReader(fr);
-		line = br.readLine();
-		while (line != null) {
-			line = br.readLine();
-			int result = line.indexOf(word);
-			if (result >= 0) return line;
+		while ((line = br.readLine()) != null) {
+			matcher.reset(line);
+			if (matcher.find()) return line;
 			else return "Not Found!";
 		}
 		br.close();
