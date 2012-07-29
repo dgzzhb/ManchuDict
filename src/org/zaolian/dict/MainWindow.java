@@ -1,3 +1,4 @@
+package org.zaolian.dict;
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -9,7 +10,6 @@ import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-import org.zaolian.dict.Searcher;
 
 public class MainWindow {
 	
