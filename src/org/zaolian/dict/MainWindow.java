@@ -10,6 +10,11 @@ import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
+/**
+ * This is the class for main window.
+ * @author Tian
+ * July 2012
+ */
 
 public class MainWindow {
 	
@@ -18,10 +23,16 @@ public class MainWindow {
 	private JTextField inText = new JTextField(13);
 	private JTextArea outText = new JTextArea(7,20);
 	
+	/**
+	 * Constructor of MainWindow
+	 */
 	public MainWindow() {
 		setupGUI();
 	}
 
+	/**
+	 * Setup GUI for Main Window
+	 */
 	private void setupGUI() {
 		JFrame frame = new JFrame("满汉英词典");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
