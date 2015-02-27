@@ -47,7 +47,7 @@ ainci = conj. 或，或者or
 ainu = ad. 为什么？怎么会why? how come? 
 aise = ad. 或许，也许perhaps (usually at the end of the sentence)
 aiseme = ad. 为什么，为何why, for what
-aisilara ＝ n. 帮助，帮忙；援助help, favour; aid, assistance
+aisilara = n. 帮助，帮忙；援助help, favour; aid, assistance
 aisin usiha = n. 金星Venus, the second nearest planet from the sun
 aji = a. 小的，小小的little
 aji juse = n. 小童，幼儿small children
@@ -1194,7 +1194,7 @@ julun = n. 传，传记life, biography ; Tsysi taiheo julun 慈禧太后传 A li
 Jung'ar = grogr. 准格尔Zungaria
 Jungg'o = 中国 China (Chin. Zhongguo)
 Jungg'o cohotoshūn bisire = n. 有中国特色的 ; Jungg'o cohotoshūn bisire šehūi-juyi有中国特色的社会主义socialism with Chinese characteristics
-Jungg'oi ＝ a. 中国的 Chinese
+Jungg'oi = a. 中国的 Chinese
 Jungg'oi Gung-can-dang = 中国共产党the Chinese Cummunist Party
 junggitu = n. 冠军，头奖champion, first prize
 Jung-gung Jungyang = n. 中共中央 Central Committee of the Communist Party of China
@@ -1348,7 +1348,7 @@ lu-geo-kiyoo = n. 芦沟桥Marcol Polo Bridge (Beijing)
 mabu = n. 抹布hand mop (Chin. mabu)
 madagan = n. 利，利息interest, profit
 madambi = vi. 膨胀to swell, to expand
-mafa ＝ n. 爷爷grandpa ; mafa mama 老俩口old man and his wife, old couple
+mafa = n. 爷爷grandpa ; mafa mama 老俩口old man and his wife, old couple
 mafa da = n. 祖宗ancester, forefather
 mafa gurun = n. 祖国motherland, land of forefathers
 mahala = n. 帽子；目标 hat; target ; mahala goiha 中的，击中目标on target
@@ -1361,7 +1361,7 @@ majige andande = ad. 顷刻间，不一会儿in a moment, in the turn of a hand
 majige goidame = 再多一会儿a little more while
 majige tacifi heni saha = n. 一知半解sciolism, inadequate knowledge or understanding
 maka = conj. 我不知道，莫非wonder ; maka cimari i abkai sukdun antaka ni? 明天天气会怎样呢？I'm wondering how the weather will be tomorrow. ; maka ainambio 不知做什么好have no idea what to do
-Maks Liyening juyi ＝ n. 马克思列宁主义 Marx-Leninism
+Maks Liyening juyi = n. 马克思列宁主义 Marx-Leninism
 maksimbi = vi. 舞，舞蹈，跳舞 to dance ; maksire sargan jui 舞女dancer, dance hostess, dancing girl
 maksin = n. 舞蹈；戏dance, play
 maksisi = n. 舞者，跳舞者dancer
@@ -1988,7 +1988,7 @@ siberi = n. 汗sweat
 sibiya tatabumbi = vi. 抽签to draw cuts, to ballot for sth.
 sibiyalambi = vi. 抽签to draw cuts, to ballot
 sibkimbi = vi. 研究；深究to study, to research; to spy
-sibkime fuhašara boo ＝ n. 研究室research group, research division
+sibkime fuhašara boo = n. 研究室research group, research division
 sibša = ad. 向下，跌下；落后downward, backward
 sibšalambi = vt. 开除，淘汰to expel, to dismiss, to kick out
 sibšambi = vi. 做鬼脸to make a face
@@ -2567,7 +2567,7 @@ tinggin = n. 厅，庭院division (Chin. ting); lobby, yard
 tiyan ran ci = n. 天然气natural gas (Chin. tianranqi)
 Tiyan-šan = geogr. 天山 Mt. Tianshan, also as Tiyan-šan Alin (Chin. tianshan)
 tob = n. [状]，正，庄严just, righteousness ; tob ambalinggū 正大光明fair, just and right
-tob doro ＝ n. 公道justice, fairness
+tob doro = n. 公道justice, fairness
 tob dulimba = n. 正中middle, centre
 tob seme = ad. 正好，恰好just right
 tob tab = a. 端正proper, upright
